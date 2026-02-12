@@ -1,0 +1,5 @@
+{
+  "name": "DiaGuard AI: Hybrid Diabetes Risk Predictor",
+  "description": "An advanced diabetes risk assessment tool using a hybrid machine learning architecture (simulated) and Gemini-powered Explainable AI (XAI) for personalized lifestyle recommendations and medical insights.",
+  "requestFramePermissions": []
+}
